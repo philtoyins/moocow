@@ -30,4 +30,8 @@ class ApplicationController
   def baaaa
     
   end
+
+  def meow
+    
+  end
 end
