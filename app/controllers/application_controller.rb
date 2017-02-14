@@ -26,4 +26,8 @@ class ApplicationController
   def woof
     
   end
+
+  def baaaa
+    
+  end
 end
