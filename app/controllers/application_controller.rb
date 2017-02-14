@@ -34,4 +34,8 @@ class ApplicationController
   def meow
     
   end
+
+  def sounds_like_whale_noises
+    
+  end
 end
