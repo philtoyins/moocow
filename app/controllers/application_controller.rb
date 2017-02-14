@@ -26,4 +26,8 @@ class ApplicationController
   def woof
     
   end
+
+  def sounds_like_whale_noises
+    
+  end
 end
