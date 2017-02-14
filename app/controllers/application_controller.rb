@@ -23,6 +23,10 @@ class ApplicationController
     
   end
 
+  def method_a
+    
+  end
+
   def method_b
     
   end
