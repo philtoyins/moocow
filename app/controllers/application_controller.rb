@@ -22,16 +22,4 @@ class ApplicationController
   def delete
     
   end
-
-  def method_a
-    
-  end
-
-  def method_b
-    
-  end
-
-  def method_from_master
-    
-  end
 end
