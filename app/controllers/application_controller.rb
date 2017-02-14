@@ -19,7 +19,11 @@ class ApplicationController
     
   end
 
-  def method_b
+  def delete
+    
+  end
 
+  def method_b
+    
   end
 end
