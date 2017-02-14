@@ -1,4 +1,8 @@
 class ApplicationController
+  def index
+    
+  end
+
   def new
     
   end
@@ -7,7 +11,15 @@ class ApplicationController
     
   end
 
-  def method_b
+  def edit
     
+  end
+
+  def update
+    
+  end
+
+  def method_b
+
   end
 end
