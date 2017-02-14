@@ -22,4 +22,8 @@ class ApplicationController
   def delete
     
   end
+
+  def woof
+    
+  end
 end
