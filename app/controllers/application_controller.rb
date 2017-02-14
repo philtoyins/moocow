@@ -26,4 +26,8 @@ class ApplicationController
   def method_b
     
   end
+
+  def method_from_master
+    
+  end
 end
